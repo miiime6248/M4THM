@@ -80,8 +80,7 @@ Visualizes minimalism—the brand's core value—as its primary aesthetic princi
        
 <img width="562" height="965" alt="001" src="https://github.com/user-attachments/assets/97bea822-ffa8-4ea2-a670-f34b68d115dd" />
 <img width="987" height="1012" alt="all_003_1" src="https://github.com/user-attachments/assets/0c3dcf74-2ee7-4175-bdd7-a5efc3b6abf5" />
-<img width="562" height="965" alt="007" src="https://github.com/user-attachments/assets/7feabab5-a620-4cfe-b77e-006f03df3ea0" />
-
+<img width="541" height="1294" alt="20260201_205129" src="https://github.com/user-attachments/assets/891247a4-adac-4736-97aa-807df3e8ff1d" />
 
 ---
 
