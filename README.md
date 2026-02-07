@@ -10,10 +10,10 @@
 <br><br>
 
 A unified structure combining the English "MIIIME" and the Korean "ㅁㅣㅣㅣㅁㅓㅣㅣ".  
-Visualizes minimalism—the brand's core value—as its primary aesthetic principle.
+Visualizes 4-Bit Brutalism—the brand's core value—as its primary aesthetic principle.
 
 영어의 MIIIME 와 한글의 ㅁㅣㅣㅣㅁㅓㅣㅣ를 하나의 조형으로 결합.  
-브랜드가 지향하는 미니멀리즘을 최우선의 조형적 가치로 시각화.
+4비트 원시주의를 최우선의 조형적 가치로 시각화.
 
 ---
 
