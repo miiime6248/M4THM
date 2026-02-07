@@ -42,7 +42,7 @@ Visualizes minimalism—the brand's core value—as its primary aesthetic princi
 - 디지털 픽셀의 사각형 자체를 미학의 정체성으로 추구합니다.
 
 <br>
-<img width="562" height="613" alt="20260201_200140_003" src="https://github.com/user-attachments/assets/6ce7cdce-9275-4acc-b615-4ec096dedee1" />
+<img width="562" height="563" alt="002" src="https://github.com/user-attachments/assets/c30db699-c76e-4b58-a8c5-99898be2740c" />
 <br><br>
 
 ---
