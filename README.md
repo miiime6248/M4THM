@@ -1,4 +1,4 @@
-# MIIIME Themes (M4THM™)
+# MIIIME 4-Bit Themes (M4THM™)
 
 ### 4-Bit Brutalism
 
